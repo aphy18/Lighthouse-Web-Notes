@@ -11,7 +11,7 @@ Aphason's Notes
 This repository contains all of the notes taken by ...taken by [Aphason](https://github.com/aphy18) for the marvelous ...taken by [Lighthouse Labs](https://enterprise.lighthouselabs.ca) Web Development Bootcamp
 
 
-Hi
+
 
 Lighthouse Labs 2021 :)
 
@@ -22,3 +22,8 @@ Lighthouse Labs 2021 :)
 
 * [Week 1](/Week_1)
     * [Day 1](/Week_1/Day_1)
+
+
+### About Me
+
+Hello my name is Aphason, but you can call me Aphy. I have been in lighthouse for a while now. Recently I made the choice to restart, but it's ok. Now it's time to go above and beyond and really strive for greatness at Lighthouse Labs.
